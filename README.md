@@ -11,12 +11,15 @@ To use this template, you can create a new repository by clicking on _Use this t
 The new repository will use this one as a template, meaning that it will contain all the files. 
 Once the new repository is created, you can edit its files to adapt them to your needs.
 
+The following indications assume that you have admin or owner permissions in the project.
+
 ## ☑️ Checklist
 
 This is the list of actions you should address
 
 - [ ] Edit the [Project Description](#-project-description).
 - [ ] Review and adapt the [Contributing guidelines](#-contributing-guidelines).
+- [ ] Decide if you want to clearly identify and set the [Code owners](#code-owners) in your project.
 - [ ] Review and adapt the [Code of Conduct](#%EF%B8%8F-code-of-conduct).
 - [ ] Review and adapt the [Governance](#%EF%B8%8F-governance) rules.
 - [ ] Decide if you want to use [Templates](#%EF%B8%8F-templates) for your issues/pull requests, and adapt if necessary.
@@ -43,6 +46,14 @@ Contributing guidelines describe how people can help with the development of you
 Contributing guidelines are generally provided in the well-known file `CONTRIBUTING.md` file.
 
 This template includes a proposal for `CONTIBUTING.md`. Please, read carefully the provided template and adapt to your needs.
+
+### 👑 Code Owners
+
+The code owners are those contributors that are responsible for code in your project. Thus, code owners are automatically requested for review when someone opens a pull request that modifies code that they own.
+
+In GitHub you define the code owner in the `CODEOWNERS` file. You can find more information in the [official documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners). Please, check the official documentation to be sure that write permissions in the repository are properly set.
+
+This template includes an example proposal for `CODEOWNERS` extracted from the official documentation.  
 
 ### 👮‍♀️ Code of Conduct
 
