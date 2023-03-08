@@ -15,13 +15,13 @@ Once the new repository is created, you can edit its files to adapt them to your
 
 This is the list of actions you should address
 
-- [ ] Edit the [Project Description](#🧾-project-description).
-- [ ] Review and adapt the [Contributing guidelines](#👩‍💻-contributing-guidelines).
-- [ ] Review and adapt the [Code of Conduct](#👮‍♀️-code-of-conduct).
-- [ ] Review and adapt the [Governance](#🏛️-governance) rules.
-- [ ] Decide if you want to use [Templates](#🖊️-templates) for your issues/pull requests, and adapt if necessary.
-- [ ] Choose a [License](#⚖️-license).
-- [ ] Edit the [Citation](#📓-citation) if you have a paper to cite your work.
+- [ ] Edit the [Project Description](#-project-description).
+- [ ] Review and adapt the [Contributing guidelines](#-contributing-guidelines).
+- [ ] Review and adapt the [Code of Conduct](#-code-of-conduct).
+- [ ] Review and adapt the [Governance](#-governance) rules.
+- [ ] Decide if you want to use [Templates](#-templates) for your issues/pull requests, and adapt if necessary.
+- [ ] Choose a [License](#-license).
+- [ ] Edit the [Citation](#-citation) if you have a paper to cite your work.
 - [ ] Edit the [Readme](#readme).
 
 ## 💡 Best Practices
