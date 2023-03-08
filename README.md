@@ -19,7 +19,7 @@ This is the list of actions you should address
 
 - [ ] Edit the [Project Description](#-project-description).
 - [ ] Review and adapt the [Contributing guidelines](#-contributing-guidelines).
-- [ ] Decide if you want to clearly identify and set the [Code owners](#code-owners) in your project.
+- [ ] Decide if you want to clearly identify and set the [Code owners](#-code-owners) in your project.
 - [ ] Review and adapt the [Code of Conduct](#%EF%B8%8F-code-of-conduct).
 - [ ] Review and adapt the [Governance](#%EF%B8%8F-governance) rules.
 - [ ] Decide if you want to use [Templates](#%EF%B8%8F-templates) for your issues/pull requests, and adapt if necessary.
