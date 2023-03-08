@@ -1,6 +1,5 @@
 # Code of Conduct
 
-
 ## Short Version
 We as members, contributors, and leaders pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
@@ -101,6 +100,8 @@ Project maintainers will follow these Community Impact Guidelines in determining
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct/
 
 Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+The structure of this Code of Conduct based on short and long versions was inspired by [SustainOSS Code of Conduct](https://sustainoss.org/code-of-conduct/)
 
 [homepage]: https://www.contributor-covenant.org
 
