@@ -57,7 +57,7 @@ This template includes an example proposal for `CODEOWNERS` extracted from the o
 
 ### 👮‍♀️ Code of Conduct
 
-The Code of conduct (CoC) of your project establishes the set of behavioral rules for the community. How harassment  cases will be resolved? To whom you have to contact if you feel attacked? 
+The Code of conduct (CoC) of your project establishes the set of behavioral rules for the community. How harassment cases will be resolved? To whom you have to contact if you feel attacked? 
 
 Code of conduct is often defined in the `CODE_OF_CONDUCT.md` file.
 
@@ -67,7 +67,7 @@ This template includes a proposal for `CODE_OF_CONDUCT.md`. Please, read careful
 
 Governance rules define the set of norms which are applied to make decisions in your project, and your community. On the one hand, governance project rules address questions such as: who will accept my pull request?, or how much time it will take to be accepted? On the other hand, governance community rules cover questions such as: who will accept me as part of the project leaders? 
 
-The explicit definition of governance rules is not a trivial task, but when done, it is usually defined in the `GOVERNANCE.md` file.
+The explicit definition of governance rules is not a trivial task, but when done, it is usually defined in the `GOVERNANCE.md` file. You can find a list of typical questions to address when defining governance rules [here](https://sustainers.github.io/governance-readiness/).
 
 This template includes a proposal for `GOVERNANCE.md`. Please, read carefully the provided template and adapt to your repository.
 
