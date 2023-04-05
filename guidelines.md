@@ -33,8 +33,8 @@ This is the list of actions you should address:
 
 ### The coulds
 
-- [ ] Consider adding a [Security policy](#-security-policy).
-- [ ] Consider adding a 
+- [ ] Consider adding a [Security policy](#%EF%B8%8F-security-policy).
+- [ ] Consider adding a [Fundings](#-funding) file.
 - [ ] Consider using [Citation](#-citation) if you have a paper to cite your work.
 
 
