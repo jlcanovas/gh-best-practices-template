@@ -1,16 +1,5 @@
 # GitHub Best Practices Template
 
-This is **a template repository** for helping others to follow the best practices when developing GitHub projects.
-
-You will find a collection of files and configuration recommendations for kick-starting a new project in GitHub. 
-
-## ⚒️ Using this template for your project
-
-To use this template, you can create a new repository by clicking on _Use this template_ button. 
-
-The new repository will use this one as a template, meaning that it will contain all the files. 
-Once the new repository is created, you can edit its files to adapt them to your needs.
-
 The following indications assume that you have admin or owner permissions in the project.
 
 ## ☑️ Checklist
@@ -24,7 +13,7 @@ This is the list of actions you should address:
 - [ ] Review and adapt the [Code of Conduct](#%EF%B8%8F-code-of-conduct).
 - [ ] Review and adapt the [Governance](#%EF%B8%8F-governance) rules.
 - [ ] Choose a [License](#%EF%B8%8F-license).
-- [ ] Edit the [Readme](#readme).
+- [ ] Edit the [Readme](#%EF%B8%8F-readme).
 
 ### The shoulds
 
