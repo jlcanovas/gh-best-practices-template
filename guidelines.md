@@ -126,7 +126,7 @@ If your work is related to a paper, and you want to facilitate its citation, rev
 
 The provided template will help to fill the gaps, but if you need more help, you can find more information in [Citation File Format](https://citation-file-format.github.io/). Otherwise, just remove the file.
 
-## Readme
+### 🗒️ Readme
 
 As last step, modify the `README.md` file. This file summarizes your project, and normally includes sections for:
 
@@ -138,11 +138,4 @@ As last step, modify the `README.md` file. This file summarizes your project, an
 * Code of Conduct: You can refer to `CODE_OF_CONDUCT.md`.
 * License: You can refer to `LICENSE.md`
 
-## Legal
-This repository is licensed under the **Creative Commons BY 4.0**.
-
-You are free to:
-
-* Share: Copy and redistribute the material in any medium or format
-* Adapt: Remix, transform, and build upon the material for any purpose, even commercially
 
