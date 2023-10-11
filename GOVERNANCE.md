@@ -10,29 +10,31 @@ Project maintainers have admin access to the GitHub repository. The team of proj
 * [Maintainer 2](https://github.com/USER2/) 
 * [Maintainer 3](https://github.com/USER3/) 
 
-## Project Collaborators & Contributors
+## 1. Roles
 
-Any member willing to participate in the development of the project will be considered as a collaborator. 
+This project includes the following roles.
 
-Collaborators may propose changes to the project's source code. The mechanism to propose such a change is a GitHub pull request. A collaborator proposing a pull request is considered a contributor. Project maintainers will review and merge pull requests.
+1.1. **Maintainer**. Maintainers are responsible for organizing activities around developing, maintaining, and updating the Project. Project maintainers will review and merge pull requests.
 
-## Issue governance
+1.2. **Collaborator**. Any member willing to participate in the development of the project will be considered as a **collaborator**. Collaborators may propose changes to the project's source code. The mechanism to propose such a change is a GitHub pull request. A collaborator proposing a pull request is considered a **contributor**. 
 
-Both collaborators and project maintainers may propose issues. The participation in the issue discussion is open and must follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+## 2. Issue governance
 
-The group of project maintainers will be responsible for assigning labels to issues, as well as assign the issue to a project maintainer or contributor.
+2.1. Both collaborators and project maintainers may propose issues. The participation in the issue discussion is open and must follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-The group of project maintainers commit to give an answer to any issue in a period of time of 48 hours. 
+2.2. The group of project maintainers will be responsible for assigning labels to issues, as well as assign the issue to a project maintainer or contributor.
 
-## Pull Request governance
+2.3. The group of project maintainers commit to give an answer to any issue in a period of time of 48 hours. 
 
-Both collaborators and project maintainers may propose pull requests. When a collaborator proposes a pull request, is considered contributor.
+## 3. Pull Request governance
 
-Pull requests should comply with the template provided. The assignment of labels and assignees to the pull request is the responsibility of the project maintainers.
+3.1. Both collaborators and project maintainers may propose pull requests. When a collaborator proposes a pull request, is considered contributor.
 
-The group of project maintainers commit to give an answer to any pull request in a period of time of 48 hours. 
+3.2. Pull requests should comply with the template provided. The assignment of labels and assignees to the pull request is the responsibility of the project maintainers.
 
-The decision of accepting (or rejecting) a pull request will be taken by the group of project maintainers. The decision will be based on the following criteria:
+3.3. The group of project maintainers commit to give an answer to any pull request in a period of time of 48 hours. 
+
+3.4. The decision of accepting (or rejecting) a pull request will be taken by the group of project maintainers. The decision will be based on the following criteria:
 
 * Two project maintainers must approve a pull request before the pull request can be merged. 
 * One project maintainer approval is enough if the pull request has been open for more than 14 days.

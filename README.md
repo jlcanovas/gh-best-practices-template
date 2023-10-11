@@ -34,6 +34,7 @@ During the development of this template, I have been working with the following 
 * [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity)
 * [SustainOSS Code of Conduct](https://sustainoss.org/code-of-conduct/)
 * [CommunityRule](https://communityrule.info/)
+* [Minimum Viable Governance](https://github.com/github/MVG)
 
 ## ⚖️ License
 
